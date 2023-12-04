@@ -1,6 +1,6 @@
 # TMNIST Classification for Character Recognition 
 
-###Technology Used
+### Technology Used
 
 1. CNN (Deep Learning)
 2. TensorFlow
